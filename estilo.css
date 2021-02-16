@@ -1,0 +1,90 @@
+                               /* MODELO DE CAIXA */
+
+
+/*.conteudo{ padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;*/
+	/*padding: 20px;
+	border: 1px solid red;
+	/*
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;*/
+	/*margin: 10px;
+
+
+
+	width: 300px;
+
+
+
+}
+*/
+
+/*#noticia{
+	background: #f9f9f9;
+	padding: 10px;
+	border: 1px solid gray;
+	width: 900px;
+	/*height: 300px;*/
+/*
+}
+h2 {
+	margin: 0px;
+}
+*/
+
+                                  /* ELEMENTOS FLUTUANTES */
+
+/*.conteudo{
+	background: blue;
+	border: 1px solid gray;
+	width: 200px;   /*largura*/
+	/*height: 200px;   /*altura*/
+	/*float: left;
+	margin: 10px;
+}
+.conteudo1{
+	background: red;
+	border: 1px solid gray;
+	width: 200px;   /*largura*/
+	/*height: 200px;   /*altura*/
+	/*float: left; 
+	margin: 10px;
+}
+body {
+	width: 600px;
+}
+.borda{
+	border: 1px solid red;
+}*/
+                                  /*ELEMENTOS FLUTUANTES NA PRÁTICA*/
+body {
+	background: #f4f4f4;
+}
+
+#principal{
+	width: 920px;
+	
+}
+.noticia{
+	background: #e5e5e5;
+	padding: 5px;
+	width: 280px;
+	margin: 7px;
+	float: left;
+
+}
+.clear{
+	clear: both;
+}
+.galeria{
+	background: white;
+	width: 265px;
+	padding: 5px;
+	margin: 10px;
+	float: left;
+
+}
